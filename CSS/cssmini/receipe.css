@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(203, 209, 215);
+    text-align: center;
+}
+header{
+    background-color: black;
+    color:white;
+    
+    padding: 1px;
+}
+main{
+display:flex;
+flex-direction: row;
+justify-content: center;
+}
+section{
+    width: 20%;
+
+    background-color: white;
+    border:solid white;
+    border-radius: 10px;
+margin:15px;
+}
+footer{
+    background-color: black;
+    color:white;
+
+    padding:0.5px;
+}
+a:link{
+    text-decoration: none;
+    color:rgb(235, 226, 226);
+
+    background-color: rgb(15, 14, 14);
+    width:100%;
+}
+div{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

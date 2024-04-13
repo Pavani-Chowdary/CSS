@@ -1,0 +1,40 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:0.5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:0.2px;
+}
+main{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:15px;
+    background-color: rgb(245, 242, 237);
+    
+
+}
+div{
+padding-bottom: 25px;
+padding-right: 70px;
+padding-left:15px;
+    margin-top:30px;
+    margin-bottom: 190px;
+    border:1px white solid;
+    border-radius:10px;
+    background-color: white;
+}
+a:link{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    padding:10px;
+    margin-left:5px;
+    border:black 1px;
+    border-radius: 7px;;
+}

@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(231, 239, 244);
+}
+header{
+    background-color:rgb(40, 35, 35);
+    text-align: center;
+    color:white;
+    padding: 1px;
+    font-weight: lighter;
+}
+
+
+#id{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap:13px;
+
+}
+#flex{
+   
+    gap:5px;
+    text-decoration: none;
+    color:black;
+}
+section{
+    background-color:white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 10px;
+
+}
+#ul{
+    list-style-type: disc;
+}
+#input{
+    width:40%;
+    
+}
+textarea{
+    width:40%;
+}
+#p{
+    text-indent :25px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+  
+ 
+
+ul{
+    list-style-type: none;
+  }
+  
+  
+  
+  

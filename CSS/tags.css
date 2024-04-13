@@ -1,0 +1,53 @@
+
+
+    /** style.css **/
+
+
+ 
+
+.flex-container {
+
+    display : flex;
+
+    background-color: lightblue;
+
+    justify-content: center;
+
+}
+
+
+ 
+
+.item {
+
+    padding : 20px;
+
+    margin : 20px;
+
+    border: solid ;
+
+    text-align: start;
+
+    width : 10em;
+
+    background-color: blanchedalmond;
+
+}
+
+
+ 
+
+/**
+
+    TODO : Make the center box text center aligned using the center class
+
+**/
+
+.center{
+
+    text-align: center;
+
+}
+
+
+ 

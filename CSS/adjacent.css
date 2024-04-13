@@ -1,0 +1,57 @@
+.container {
+
+    padding: 2em;
+
+}
+
+
+ 
+
+.first,
+
+.score {
+
+    padding: 1em;
+
+    max-width: 300px;
+
+    background-color: #fc1;
+
+    border: 2px solid #f91;
+
+    color: #584707;
+
+    margin: 1em 0;
+
+}
+
+
+ 
+
+/**
+
+    TODO - Write selector here so that only the first sibling of the `first` class
+
+           should be made into this background color, color and font-weight as shown
+
+           here.
+
+           Write the selector where you see the blank ____________
+
+**/
+
+.score1{
+
+    background-color: #cd1;
+
+    border-color: #9a1;
+
+    color: #3c4207;
+
+    font-weight: bold;
+
+}
+
+
+
+ 

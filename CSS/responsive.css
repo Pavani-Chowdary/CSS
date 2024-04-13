@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    background-color: lightblue;
+    padding : 20px;
+    /**
+        TODO : Write code here to make this flex container responsive
+    **/
+    flex-wrap: wrap;
+    max-width:50%;
+}
+
+.item {
+    padding : 10px;
+    background-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    margin : 10px;
+    min-width: 200px;
+    min-height: 100px;
+    color : white;
+}

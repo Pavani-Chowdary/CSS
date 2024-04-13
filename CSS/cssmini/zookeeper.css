@@ -1,0 +1,14 @@
+
+body{
+background-color: rgb(239, 238, 238);
+}
+.input{
+ width:100%;
+ padding:3px;
+}
+.submit-btn{
+    background-color: rgb(95, 219, 95);
+    border:1px solid rgb(95, 219, 95);
+    color:white;
+    padding:2px;
+}
